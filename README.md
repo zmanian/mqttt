@@ -1,6 +1,6 @@
 # MQTT-Trusted
 
-The trusted messaging framework based on MQTT and crypto signatures.
+The trusted messaging framework based on MQTT and crypto signatures. MQTTT signs and validates message with Ethereum style ECDSA secp256k1 signatures allowing nodes on an MQTTT network to link their identities to Ethereum blockchain accounts while using MQTT to communicate.
 
 ## Installation
 
